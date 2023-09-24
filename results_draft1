@@ -1,0 +1,11 @@
+#Results
+
+As further described in the materials and methods section, the protein sequence 
+of the gene ATP7B was used to retrieve the homologous sequences of the gene ATP7B by using BlastP. 1000 homologous sequences of the gene ATP7B were chosen and aligned by using the Muscle Alignment in the Mega11 software. A part of the alignment is displayed below, and the complete alignment can be viewed in Github.
+
+The file containing the alignment was used to create a phylogenetic tree in the Mega11 software after the homologous sequences were aligned. The phylogenetic tree that was created using the 1000 homologous sequences of the gene ATP7B can be seen below. It was created using the neighbor-joining method and displayed using FigTree.
+
+The neighbor-joining method of building trees is based on distance, therefore the closer two species are to one another, the more closely related they are. It is a beneficial approach to comprehend the species' closest common ancestor and to categorize them.
+
+
+As it can observed in the Neighbor-joining tree above, the species closest to Homo sapiens are in the same clade and they are all coming from a common ancestor. The species closest to Homo sapiens have the same form of the ATP7B gene as homo sapiens, as expected before construing the tree. In the Neighbor-joining tree above, as the species are closer to each other in the clade, the similarities between the forms of the ATP7B gene are getting closer as well. As the distance between the species are further apart, differences between the forms of the ATP7B gene and conservation scores are increasing. 
